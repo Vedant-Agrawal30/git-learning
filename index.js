@@ -9,3 +9,6 @@ console.log(footer);
 
 const payment = "integrated the payment gate2way";
 console.log(payment);
+
+const UPI = "Integrated the UPI also";
+console.log(UPI);
